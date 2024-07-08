@@ -1,0 +1,5 @@
+const {sum,sub,pro,devide} = require("./data.js")
+sum(10,10)
+sub(20,5)
+pro(12,12)
+devide(10,5)
